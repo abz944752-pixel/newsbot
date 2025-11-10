@@ -1,1 +1,2 @@
 # newsbot
+# my blog
